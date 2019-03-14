@@ -300,6 +300,21 @@ body ol li {
 .footer h2{
 	text-align: center;
 	color:#e5e5e5;
-	margin: 2rem 0 0 2rem;
+	margin: 3rem 0 0 2rem;
+}
+.socseti{
+	margin: 3rem 3rem 0 0;
+}
+.foot-cont{
+ margin: 3rem 2rem 0 0;
+}
+.foot-cont a{
+	
+	color: #fff;
+	font-size : 1.2rem;
+}
+.foot-cont p span{
+	color: #fff;
+	font-size: 1.6rem;
 }
 /*Конец футера*/
